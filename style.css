@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+
+.heading {
+    color: rgb(42, 151, 165);
+    text-align: center;
+    padding:20px;
+    margin: 50px 0;
+    border:3px solid red;
+    width:50%;
+    margin:50px auto;
+    border-radius: 10px;
+    background-color:rgb(94, 31, 153)
+}
+
+.para {
+    color: rgb(62, 133, 106);
+    margin: 0 50px;
+    border: 2px solid tomato;
+    padding: 15px;
+    box-shadow: -10px -10px 20px red;
+    font-size: 1.5rem;
+    border-radius: 60px;
+}
+
+.para-style {
+    
+    border-bottom:50px solid rgb(76, 76, 170) ;
+    border-radius: 20px;
+    color: red;
+    padding: 50px;
+    margin: 20px 50px;
+    box-shadow:20px 20px 50px red;
+    text-align: center;
+    font-size: 30px;
+    text-align: justify;
+}
+
+ul {
+    list-style: none;
+    margin: 20px;
+}
+
+li {
+    margin-top: 20px
+}
+
+#font-color {
+    color: red
+}
+
+#font-size {
+    font-size: 2rem
+}
+
+#font-style {
+    font-style: italic;
+    font-weight: bold
+}
+
+.div-style{
+    width:70%;
+    margin:50px auto;
+    
+}
+
+img {
+    width:100%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px;
+       
+}
